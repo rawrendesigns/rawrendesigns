@@ -6,7 +6,8 @@
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I can list off all 1,164 Pokemon in order, which includes Mega Evolutions and Gigantamax, and Regional Forms
 
-<!---
-rawrendesigns/rawrendesigns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://i.etsystatic.com/isbl/35f94b/71401818/isbl_fullxfull.71401818_5vexosp0.jpg?version=0">
+ <source media="(prefers-color-scheme: light)" srcset="https://i.etsystatic.com/isbl/35f94b/71401818/isbl_fullxfull.71401818_5vexosp0.jpg?version=0">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
